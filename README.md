@@ -1,6 +1,6 @@
 # login-signup-system
 A django login/signup web app using sqlite3
-For this website to work on your system, I will assume you have knowlegde of django and you understands how it works.
+For this website to work on your system, I will assume you have knowlegde of django and understand how it works.
 
 For the login-signup-system to work you must:
 1. pip install django on your work environment
